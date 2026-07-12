@@ -1,6 +1,3 @@
-public class Al_Divide_two_integers {
-    
-}
 class Solution {
     public int divide(int dividend, int divisor) {
 
